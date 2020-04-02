@@ -22,7 +22,7 @@ Unity
 - `Asset Import Move Window`のhelpボタン押下で操作方法を確認できます
 
 ## 🎁unitypackage
-https://github.com/KatanoShingo/AssetImportMove/releases
+[AssetImportMove.unitypackage](https://github.com/KatanoShingo/AssetImportMove/releases)
 
 ## 🔓ライセンス
 
