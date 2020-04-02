@@ -26,7 +26,7 @@ https://github.com/KatanoShingo/AssetImportMove/releases
 
 ## 🔓ライセンス
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/KatanoShingo/AssetImportMove/blob/master/LICENSE)
 
 ## 🐦著者
 [@shi_k_7](https://twitter.com/shi_k_7)
