@@ -1,4 +1,4 @@
- **AssetImportMove**
+ *AssetImportMove*
 ====
 
 アセットをインポート時に任意の指定したファイル下に移動するアセット
