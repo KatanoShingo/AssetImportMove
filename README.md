@@ -1,4 +1,6 @@
- *AssetImportMove*
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)    
+
+*AssetImportMove*
 ====
 
 アセットをインポート時に任意の指定したファイル下に移動するアセット
