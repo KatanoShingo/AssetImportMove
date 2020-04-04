@@ -27,6 +27,11 @@ Unity2018.4.15f1にて作成
 ## 🎁unitypackage
 [AssetImportMove.unitypackage](https://github.com/KatanoShingo/AssetImportMove/releases)
 
+## 💪貢献
+- バグを見つけた場合は、Issuesを開いてください。    
+- 機能のリクエストがある場合は、問題を開いてください。    
+- 貢献したい場合は、プルリクエストを送ってください。    
+
 ## 🔓ライセンス
 
 [MIT](https://github.com/KatanoShingo/AssetImportMove/blob/master/LICENSE)
